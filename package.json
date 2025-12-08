@@ -19,7 +19,7 @@
     "date-fns": "^3.6.0",
     "jotai": "^2.10.1",
     "lucide-react": "^0.436.0",
-    "next": "15.0.1",
+    "next": "15.0.5",
     "next-themes": "^0.3.0",
     "react": "19.0.0-rc-69d4b800-20241021",
     "react-day-picker": "8.10.1",
